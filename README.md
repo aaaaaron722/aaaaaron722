@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:ymnhgfr@gmail.com
-- 
 
 <!---
 aaaaaron722/aaaaaron722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
