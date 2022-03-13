@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaaaron722&show_icons=true&theme=radical&layout=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaron722)](https://github.com/anuraghazra/github-readme-stats)
+
 # 林佑勳 (YOU-SYUN LIN)
 
 - Education: 元智大學-資訊學院英語學士班
@@ -16,6 +19,6 @@
 
 - YZU GDSC
 * * *
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaaaron722&show_icons=true&theme=radical&layout=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaron722)](https://github.com/anuraghazra/github-readme-stats)
+
+
