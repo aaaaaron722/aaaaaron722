@@ -18,7 +18,7 @@
 # Group
 
 - YZU GDSC
-* * *
+
 
 
 
