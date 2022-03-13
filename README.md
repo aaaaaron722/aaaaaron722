@@ -10,6 +10,7 @@
 - E-mail: ymnhgfr@gmail.com 
 - E-mail: s1103535@mail.yzu.edu.tw
 - Mobile: 0916459321
+- Birthday: 2003/7/22
 
 # Languages
 
