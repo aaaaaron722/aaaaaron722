@@ -1,13 +1,16 @@
-### 👋 Hi, I’m @aaaaaron722
+## 👋 Hi, I’m Aaron Lin
 >
->> #### I’m interested in programming.
+>> ### I’m interested in programming.
 >
->> #### I’m currently learning c++.
+>> ### I’m currently learning c++.
 >
 >> #### I’m looking to collaborate on ...
 >
 >> #### How to reach me email:ymnhgfr@gmail.com
 
+<pre><code>
+  cour << "Hello world" << endl;
+</pre></code>
 
 <!---
 aaaaaron722/aaaaaron722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
