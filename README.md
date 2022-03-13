@@ -1,12 +1,12 @@
 ### 👋 Hi, I’m @aaaaaron722
 >
->> ####I’m interested in programming.
+>> #### I’m interested in programming.
 >
->> ####I’m currently learning c++.
+>> #### I’m currently learning c++.
 >
->> ####I’m looking to collaborate on ...
+>> #### I’m looking to collaborate on ...
 >
->> ####How to reach me email:ymnhgfr@gmail.com
+>> #### How to reach me email:ymnhgfr@gmail.com
 
 
 <!---
