@@ -6,7 +6,7 @@
 >
 >> ### I’m looking to collaborate on ...
 >
->> ### How to reach me email: <bold>ymnhgfr@gmail.com</bold>
+>> ### How to reach me email: ymnhgfr@gmail.com
 
 <pre><code>
   cout << "Hello world" << endl;
