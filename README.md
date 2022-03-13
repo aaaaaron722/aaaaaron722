@@ -9,7 +9,7 @@
 >> ### How to reach me email: ymnhgfr@gmail.com
 
 <pre><code>
-  cout << "Hello world" << endl;
+  cout << "Hello!!" << endl;
 </pre></code>
 
 <!---
