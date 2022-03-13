@@ -6,7 +6,7 @@
 > I’m looking to collaborate on ...
 > 
 > How to reach me email:ymnhgfr@gmail.com
-![madneal's github stats](https://github-readme-stats.vercel.app/api?aaaaaron722=madneal&show_icons=true&theme=radical)
+
 
 <!---
 aaaaaron722/aaaaaron722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
